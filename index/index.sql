@@ -116,3 +116,4 @@ GROUP BY
 -- Sort by storage size descending
 ORDER BY IndexSizeMB DESC;
 
+
